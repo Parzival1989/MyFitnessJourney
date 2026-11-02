@@ -1,0 +1,5 @@
+# Personal tracker backups and local artifacts
+*backup*.json
+*export*.json
+.DS_Store
+Thumbs.db
